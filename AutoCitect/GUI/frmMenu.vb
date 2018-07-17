@@ -4,8 +4,14 @@
         Me.Close()
     End Sub
 
-    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
-        QuickEditCitect.Show()
+    Private Sub cmdGenGenies_Click(sender As Object, e As EventArgs) Handles cmdGenGenies.Click
+        frmGenGenies.Show()
         Me.Close()
     End Sub
+
+    Private Sub frmMenu_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
+
+
 End Class

@@ -26,7 +26,7 @@ Partial Class frmMenu
         Me.Button2 = New System.Windows.Forms.Button()
         Me.Button3 = New System.Windows.Forms.Button()
         Me.cmdTestPage = New System.Windows.Forms.Button()
-        Me.Button5 = New System.Windows.Forms.Button()
+        Me.cmdGenGenies = New System.Windows.Forms.Button()
         Me.Button6 = New System.Windows.Forms.Button()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
@@ -67,14 +67,14 @@ Partial Class frmMenu
         Me.cmdTestPage.Text = "Test Page"
         Me.cmdTestPage.UseVisualStyleBackColor = True
         '
-        'Button5
+        'cmdGenGenies
         '
-        Me.Button5.Location = New System.Drawing.Point(293, 171)
-        Me.Button5.Name = "Button5"
-        Me.Button5.Size = New System.Drawing.Size(113, 59)
-        Me.Button5.TabIndex = 0
-        Me.Button5.Text = "Menu Option 5"
-        Me.Button5.UseVisualStyleBackColor = True
+        Me.cmdGenGenies.Location = New System.Drawing.Point(293, 171)
+        Me.cmdGenGenies.Name = "cmdGenGenies"
+        Me.cmdGenGenies.Size = New System.Drawing.Size(113, 59)
+        Me.cmdGenGenies.TabIndex = 0
+        Me.cmdGenGenies.Text = "Generate Genies From IO-List"
+        Me.cmdGenGenies.UseVisualStyleBackColor = True
         '
         'Button6
         '
@@ -102,7 +102,7 @@ Partial Class frmMenu
         Me.ClientSize = New System.Drawing.Size(540, 324)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.Button6)
-        Me.Controls.Add(Me.Button5)
+        Me.Controls.Add(Me.cmdGenGenies)
         Me.Controls.Add(Me.cmdTestPage)
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button2)
@@ -118,7 +118,7 @@ Partial Class frmMenu
     Friend WithEvents Button2 As Button
     Friend WithEvents Button3 As Button
     Friend WithEvents cmdTestPage As Button
-    Friend WithEvents Button5 As Button
+    Friend WithEvents cmdGenGenies As Button
     Friend WithEvents Button6 As Button
     Friend WithEvents Label1 As Label
 End Class

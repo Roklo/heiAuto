@@ -59,7 +59,7 @@ Public Class Sheet33_MainProp1
         m_xlWorkSheet = m_xlWorkBook.Worksheets("sheet1")
         ' Displays the cell value B2
         CellInfo = m_xlWorkSheet.Cells(2, 2).value.ToString
-        MsgBox("Cell 2B: " + m_xlWorkSheet.Cells(2, 2).value)
+        MsgBox("Cell 2B: " + CellInfo)
         ' Edit the cell with new value
         'm_xlWorkSheet.Cells(2, 2) = "Hade Robin"
         'ClearPage()

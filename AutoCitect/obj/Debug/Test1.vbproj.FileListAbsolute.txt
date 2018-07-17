@@ -1,0 +1,30 @@
+C:\Users\hakon.haram\OneDrive - VARD\Desktop\Visual Basic\Test1\Test1\bin\Debug\Test1.exe.config
+C:\Users\hakon.haram\OneDrive - VARD\Desktop\Visual Basic\Test1\Test1\bin\Debug\Test1.exe
+C:\Users\hakon.haram\OneDrive - VARD\Desktop\Visual Basic\Test1\Test1\bin\Debug\Test1.pdb
+C:\Users\hakon.haram\OneDrive - VARD\Desktop\Visual Basic\Test1\Test1\bin\Debug\Test1.xml
+C:\Users\hakon.haram\OneDrive - VARD\Desktop\Visual Basic\Test1\Test1\obj\Debug\Test1.vbprojAssemblyReference.cache
+C:\Users\hakon.haram\OneDrive - VARD\Desktop\Visual Basic\Test1\Test1\obj\Debug\Test1.Resources.resources
+C:\Users\hakon.haram\OneDrive - VARD\Desktop\Visual Basic\Test1\Test1\obj\Debug\Test1.vbproj.GenerateResource.cache
+C:\Users\hakon.haram\OneDrive - VARD\Desktop\Visual Basic\Test1\Test1\obj\Debug\Test1.vbproj.CoreCompileInputs.cache
+C:\Users\hakon.haram\OneDrive - VARD\Desktop\Visual Basic\Test1\Test1\obj\Debug\Test1.exe
+C:\Users\hakon.haram\OneDrive - VARD\Desktop\Visual Basic\Test1\Test1\obj\Debug\Test1.xml
+C:\Users\hakon.haram\OneDrive - VARD\Desktop\Visual Basic\Test1\Test1\obj\Debug\Test1.pdb
+C:\Work\Visual Basic Projects\Test1\Test1\obj\Debug\Test1.vbprojAssemblyReference.cache
+C:\Work\Visual Basic Projects\Test1\Test1\obj\Debug\Test1.vbproj.ResolveComReference.cache
+C:\Work\Visual Basic Projects\Test1\Test1\obj\Debug\Test1.Form1.resources
+C:\Work\Visual Basic Projects\Test1\Test1\obj\Debug\Test1.Resources.resources
+C:\Work\Visual Basic Projects\Test1\Test1\obj\Debug\Test1.vbproj.GenerateResource.cache
+C:\Work\Visual Basic Projects\Test1\Test1\obj\Debug\Test1.vbproj.CoreCompileInputs.cache
+C:\Work\Visual Basic Projects\Test1\Test1\obj\Debug\Test1.exe
+C:\Work\Visual Basic Projects\Test1\Test1\obj\Debug\Test1.xml
+C:\Work\Visual Basic Projects\Test1\Test1\obj\Debug\Test1.pdb
+C:\Work\Visual Basic Projects\Test1\Test1\bin\Debug\Test1.exe.config
+C:\Work\Visual Basic Projects\Test1\Test1\bin\Debug\Test1.exe
+C:\Work\Visual Basic Projects\Test1\Test1\bin\Debug\Test1.pdb
+C:\Work\Visual Basic Projects\Test1\Test1\bin\Debug\Test1.xml
+C:\Work\Visual Basic Projects\Test1\Test1\obj\Debug\Interop.CitectProcessAnalyst.dll
+C:\Work\Visual Basic Projects\Test1\Test1\obj\Debug\Interop.DatabaseExchange.dll
+C:\Work\Visual Basic Projects\Test1\Test1\bin\Debug\Interop.GraphicsBuilder.dll
+C:\Work\Visual Basic Projects\Test1\Test1\obj\Debug\Test1.vbproj.CopyComplete
+C:\Work\Visual Basic Projects\Test1\Test1\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Work\Visual Basic Projects\Test1\Test1\obj\Debug\Test1.frmConfigure.resources
